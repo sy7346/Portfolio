@@ -27,7 +27,7 @@ const heroItem = {
 /* ================= education DATA ================= */
 const educationData = [
   {
-    year: "2020 - 20894799",
+    year: "2020 - 2021",
     title: "12th Standard",
     org: "Delhi, India",
     desc: "Completed 12th grade from CBSE Board in Arts stream, with a strong foundation in communication, creativity, and analytical thinking.",
